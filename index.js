@@ -88,8 +88,8 @@ app.get("/todos/:id", async(request,response) => {
 });
 
 
-///create a todo
-// create
+//create a todo
+//create new
 
 
 
