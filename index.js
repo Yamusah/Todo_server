@@ -89,8 +89,6 @@ app.get("/todos/:id", async(request,response) => {
 
 
 //create a todo
-//create new
-
 
 
 app.post("/todo", async(request,response) => {
